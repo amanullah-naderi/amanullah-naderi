@@ -1,7 +1,7 @@
 # Amanullah Naderi
 ### Software Developer (B.Sc.) | Mobile & Web | IoT
 
-I build end-to-end software solutions, from embedded hardware and mobile applications to full-stack systems and AI-powered products.
+I build end-to-end software solutions, from embedded hardware and mobile applications to full-stack systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanullah-naderi-71a8b9442/)
 
