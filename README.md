@@ -1,5 +1,5 @@
 # Amanullah Naderi
-### Software Engineer (B.Sc.) | Mobile & Web | IoT | AI Solutions
+### Software Developer (B.Sc.) | Mobile & Web | IoT
 
 I build end-to-end software solutions, from embedded hardware and mobile applications to full-stack systems and AI-powered products.
 
