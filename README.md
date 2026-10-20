@@ -1,5 +1,5 @@
 # Amanullah Naderi
-### Softwareentwickler (B.Sc.) | Full-Stack | Mobile & Web | Embedded Systems
+### Softwareentwickler (B.Sc.) | Mobile & Web | Embedded Systems
 
 Ich entwickle skalierbare Softwarelösungen an der Schnittstelle von Web, Mobile, Embedded Systems. Mit meinem Bachelorabschluss in Medieninformatik verbinde ich verschiedene Technologien, um zuverlässige, effiziente und benutzerfreundliche Produkte zu entwickeln.
 
