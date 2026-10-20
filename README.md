@@ -1,7 +1,7 @@
 # Amanullah Naderi
-### Software Developer (B.Sc.) | Mobile & Web | IoT
+### Softwareentwickler (B.Sc.) | Full-Stack | Mobile & Web | Embedded Systems
 
-I build end-to-end software solutions, from embedded hardware and mobile applications to full-stack systems.
+Ich entwickle skalierbare Softwarelösungen an der Schnittstelle von Web, Mobile, Embedded Systems und IoT. Mit meinem Bachelorabschluss in Medieninformatik verbinde ich verschiedene Technologien, um zuverlässige, effiziente und benutzerfreundliche Produkte zu entwickeln.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanullah-naderi-71a8b9442/)
 
