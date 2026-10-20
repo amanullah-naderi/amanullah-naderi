@@ -68,5 +68,3 @@ Ich entwickle skalierbare Softwarelösungen an der Schnittstelle von Web, Mobile
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=entwickler-ai&theme=radical&hide_border=false" />
 </p>
-
----
