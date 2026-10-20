@@ -70,7 +70,3 @@ Ich entwickle skalierbare Softwarelösungen an der Schnittstelle von Web, Mobile
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=entwickler-ai&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
