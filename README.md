@@ -41,7 +41,7 @@ Ich entwickle skalierbare Full-Stack-Softwarelösungen an der Schnittstelle von 
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F58220?style=for-the-badge&logo=PlatformIO&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
-#### AI & Data Science
+#### AI
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 #### DevOps & Tools
