@@ -3,9 +3,8 @@
 
 Ich entwickle skalierbare Full-Stack-Softwarelösungen an der Schnittstelle von Web, Mobile, Embedded Systems. Mit meinem Bachelorabschluss in Medieninformatik verbinde ich verschiedene Technologien, um zuverlässige, effiziente und benutzerfreundliche Produkte zu entwickeln.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanullah-naderi)
 [![FH Erfurt](https://img.shields.io/badge/FH_Erfurt-111111?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.fh-erfurt.de)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanullah-naderi)
 
 ---
 
