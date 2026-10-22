@@ -3,7 +3,7 @@
 
 Ich entwickle skalierbare Full-Stack-Softwarelösungen an der Schnittstelle von Web, Mobile, Embedded Systems. Mit meinem Bachelorabschluss in Medieninformatik verbinde ich verschiedene Technologien, um zuverlässige, effiziente und benutzerfreundliche Produkte zu entwickeln.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanullah-naderi-71a8b9442/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanullah-naderi)
 
 ---
 
@@ -53,10 +53,10 @@ Ich entwickle skalierbare Full-Stack-Softwarelösungen an der Schnittstelle von 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=entwickler-ai&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="175" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=entwickler-ai&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="175" />
+  <img src="https://github-readme-stats.shion.dev/api?username=amanullah-naderi&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="175" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=amanullah-naderi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="175" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=entwickler-ai&theme=radical&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=amanullah-naderi&theme=radical&hide_border=false" />
 </p>
