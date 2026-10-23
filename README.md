@@ -1,5 +1,5 @@
 # Amanullah Naderi
-### M. Sc. Angewandte Informatik (derzeit im Studium)
+### M. Sc. Angewandte Informatik (derzeit im Studium) 
 
 Ich entwickle skalierbare Full-Stack-Softwarelösungen an der Schnittstelle von Web, Mobile, Embedded Systems. Mit meinem Bachelorabschluss in Medieninformatik verbinde ich verschiedene Technologien, um zuverlässige, effiziente und benutzerfreundliche Produkte zu entwickeln.
 
