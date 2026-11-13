@@ -1,7 +1,9 @@
 # Amanullah Naderi
 ### M. Sc. Angewandte Informatik (derzeit im Studium) 
 
-Ich entwickle skalierbare Full-Stack-Softwarelösungen an der Schnittstelle von Web, Mobile, Embedded Systems. Mit meinem Bachelorabschluss in Medieninformatik verbinde ich verschiedene Technologien, um zuverlässige, effiziente und benutzerfreundliche Produkte zu entwickeln.
+Ich entwickle skalierbare Full-Stack-Softwarelösungen an der Schnittstelle von Web, Mobile, Embedded Systems und modernen KI-gestützten Systemen. Mit meinem Bachelorabschluss in Medieninformatik verbinde ich fundiertes technisches Know-how mit einem klaren Blick für durchdachte, stabile und benutzerfreundliche Anwendungen.
+
+Bei der Entwicklung lege ich großen Wert auf eine saubere Systemarchitektur, klare Schnittstellen, smarte Automatisierung sowie wartbaren und gut testbaren Code. Mir ist wichtig, dass Software nicht nur technisch funktioniert, sondern langfristig erweiterbar bleibt.
 
 [![FH Erfurt](https://img.shields.io/badge/FH_Erfurt-111111?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.fh-erfurt.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanullah-naderi)
