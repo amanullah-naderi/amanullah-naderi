@@ -1,7 +1,9 @@
 # Amanullah Naderi
 ### M. Sc. Angewandte Informatik (derzeit im Studium) 
 
-Ich entwickle skalierbare Full-Stack-Softwarelösungen an der Schnittstelle von Web, Mobile, Embedded Systems und modernen KI-gestützten Systemen. Mit meinem Bachelorabschluss in Medieninformatik verbinde ich fundiertes technisches Know-how mit einem klaren Blick für durchdachte, stabile und benutzerfreundliche Anwendungen.
+Ich entwickle skalierbare Full-Stack-Softwarelösungen an der Schnittstelle von Web, Mobile, Embedded Systems und modernen KI-gestützten Systemen. Mit meinem Bachelorabschluss in Angewandter Informatik (Vertiefungsrichtung Medieninformatik) und dem laufenden Masterstudium in Angewandter Informatik (Vertiefungsrichtung Software Engineering) verbinde ich fundiertes technisches Know-how mit einem klaren Blick für durchdachte, stabile und benutzerfreundliche Anwendungen.
+
+Derzeit liegt mein fachlicher Fokus verstärkt auf AI Security, autonomen Agentensystemen und dem Model Context Protocol (MCP) insbesondere der Absicherung von MCP-Agenten gegen Prompt Injection und robuster Policy-Durchsetzung.
 
 Bei der Entwicklung lege ich großen Wert auf eine saubere Systemarchitektur, klare Schnittstellen, smarte Automatisierung sowie wartbaren und gut testbaren Code. Mir ist wichtig, dass Software nicht nur technisch funktioniert, sondern langfristig erweiterbar bleibt.
 
