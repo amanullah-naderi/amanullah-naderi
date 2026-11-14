@@ -6,7 +6,7 @@ Ich entwickle skalierbare Full-Stack-Softwarelösungen an der Schnittstelle von 
 Bei der Entwicklung lege ich großen Wert auf eine saubere Systemarchitektur, klare Schnittstellen, smarte Automatisierung sowie wartbaren und gut testbaren Code. Mir ist wichtig, dass Software nicht nur technisch funktioniert, sondern langfristig erweiterbar bleibt.
 
 [![FH Erfurt](https://img.shields.io/badge/FH_Erfurt-111111?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.fh-erfurt.de)
-[![AGS Erfurt](https://img.shields.io/badge/AGS_Erfurt-111111?style=for-the-badge&logo=school&logoColor=white)](https://www.andreas-gordon-schule.de)
+[![AGS Erfurt](https://img.shields.io/badge/AGS_Erfurt-111111?style=for-the-badge&logo=school&logoColor=white)](https://www.ags-erfurt.de/de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanullah-naderi)
 
 ---
