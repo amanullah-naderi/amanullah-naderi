@@ -42,8 +42,19 @@ Bei der Entwicklung lege ich großen Wert auf eine saubere Systemarchitektur, kl
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F58220?style=for-the-badge&logo=PlatformIO&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
-#### AI
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+#### AI & LLM Systems
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-005571?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+#### AI Security & Agent Architecture
+![AI Security](https://img.shields.io/badge/AI_Security-B71C1C?style=for-the-badge&logo=shield&logoColor=white)
+![Prompt Injection Defense](https://img.shields.io/badge/Prompt_Injection_Defense-2E7D32?style=for-the-badge&logo=security&logoColor=white)
+![Policy Enforcement](https://img.shields.io/badge/Policy_Enforcement-1565C0?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-4A148C?style=for-the-badge&logo=awesomewesome&logoColor=white)
 
 #### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
