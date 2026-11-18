@@ -1,5 +1,5 @@
 # Amanullah Naderi
-> Master-Student Angewandte Informatik
+> Master-Student Angewandte Informatik | Fachhochschule Erfurt
 
 [![FH Erfurt](https://img.shields.io/badge/FH_Erfurt-111111?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.fh-erfurt.de)
 [![AGS Erfurt](https://img.shields.io/badge/AGS_Erfurt-111111?style=for-the-badge&logo=school&logoColor=white)](https://www.ags-erfurt.de/de)
